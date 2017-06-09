@@ -1,0 +1,25 @@
+{
+  "name": "sass-lint-config-silvermine",
+  "version": "1.0.0",
+  "description": "SASS Code Standards for all SilverMine projects - sass-lint enforcement",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvermine/sass-lint-config-silvermine.git"
+  },
+  "keywords": [
+    "sass-lint",
+    "sass-lint config"
+  ],
+  "author": "Jeremy Thomerson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silvermine/sass-lint-config-silvermine/issues"
+  },
+  "homepage": "https://github.com/silvermine/sass-lint-config-silvermine#readme",
+  "devDependencies": {
+    "grunt-sass-lint": "0.2.2"
+  }
+}
