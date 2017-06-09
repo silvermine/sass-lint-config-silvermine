@@ -1,6 +1,6 @@
 {
   "name": "sass-lint-config-silvermine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SASS Code Standards for all SilverMine projects - sass-lint enforcement",
   "scripts": {
     "test": "echo \"Error: no test specified\""
