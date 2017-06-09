@@ -19,7 +19,7 @@
     "url": "https://github.com/silvermine/sass-lint-config-silvermine/issues"
   },
   "homepage": "https://github.com/silvermine/sass-lint-config-silvermine#readme",
-  "devDependencies": {
+  "dependencies": {
     "grunt-sass-lint": "0.2.2"
   }
 }
