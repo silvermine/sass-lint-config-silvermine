@@ -1,7 +1,7 @@
 # Silvermine SASS Lint Rules
 
-[![Dependency Status](https://david-dm.org/silvermine/eslint-config-silvermine.png)](https://david-dm.org/silvermine/eslint-config-silvermine)
-[![Dev Dependency Status](https://david-dm.org/silvermine/eslint-config-silvermine/dev-status.png)](https://david-dm.org/silvermine/eslint-config-silvermine#info=devDependencies&view=table)
+[![Dependency Status](https://david-dm.org/silvermine/eslint-config-silvermine.svg)](https://david-dm.org/silvermine/eslint-config-silvermine)
+[![Dev Dependency Status](https://david-dm.org/silvermine/eslint-config-silvermine/dev-status.svg)](https://david-dm.org/silvermine/eslint-config-silvermine#info=devDependencies&view=table)
 
 
 ## What?
